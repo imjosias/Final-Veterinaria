@@ -1,0 +1,15 @@
+*,html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+  background-image: url("/src/images/background.jpg");
+  background-color: #ccc;
+  background-repeat: repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
